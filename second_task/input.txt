@@ -1,0 +1,4 @@
+https://rasp.omgtu.ru/api/schedule/person/782898?start=2023.09.25&finish=2023.10.01&lng=1
+https://rasp.omgtu.ru/api/schedule/person/36240?start=2023.09.25&finish=2023.10.01&lng=1
+https://rasp.omgtu.ru/api/schedule/person/709789?start=2023.09.25&finish=2023.10.01&lng=1
+https://rasp.omgtu.ru/api/schedule/person/1076?start=2023.09.25&finish=2023.10.01&lng=1
