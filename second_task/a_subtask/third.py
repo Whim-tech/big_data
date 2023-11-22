@@ -6,7 +6,7 @@ MRJob.INPUT_PROTOCOL = JSONValueProtocol
 MRJob.OUTPUT_PROTOCOL = TextValueProtocol
 
 
-class MRMostUsedAuditorium(MRJob):
+class FindMax(MRJob):
 
     def mapper(self, _, data):
         for lesson in data:
@@ -28,4 +28,4 @@ class MRMostUsedAuditorium(MRJob):
 
 
 if __name__ == '__main__':
-    MRMostUsedAuditorium.run()
+    FindMax.run()
